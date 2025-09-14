@@ -18,17 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: rms7898 Test Site
-email: rms7898@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  This is a test site for development purposes.
+title: Colophon
+email: thscolophon@gmail.com
+description: | # this means to ignore newlines until "baseurl:"
+  This site is home to Towson High School's nationally award-winning literary-arts magazine: Colophon.
+
+  Towson High School
+  69 Cedar Ave
+  Towson, MD 21286
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rms7898
 github_username:  rms7898
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
