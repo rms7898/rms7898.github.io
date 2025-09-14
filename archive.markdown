@@ -8,7 +8,7 @@ permalink: /archive/
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PDF Viewer</title>
+    <title>Archive</title>
     <style>
         /* Minimal styling focused only on the PDF viewer */
         .pdf-controls {
